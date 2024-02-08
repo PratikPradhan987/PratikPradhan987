@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikpradhan987&label=Profile%20views&color=0e75b6&style=flat" alt="pratikpradhan987" /> </p>
 
-- 🔭 I’m currently working on **An Ai Platform**
+- 🔭 I’m currently working as a **FreeLancer**
 
 - 📫 How to reach me **pratikpradhan8250@gmail.com**
 
