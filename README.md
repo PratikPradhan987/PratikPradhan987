@@ -14,6 +14,10 @@
 - 📫 How to reach me **pratikpradhan8250@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<div align="center"> <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikPradhan987&theme=2077)
+" align="center" /></div><br/>
+
 <p align="left">
 </p>
 
