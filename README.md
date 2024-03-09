@@ -22,7 +22,7 @@
 ## My Holopin Badges
 <div align="center">
 
-  [![@rishabhlive's Holopin board](https://holopin.io/api/user/board?user=PratikPradhan987)](https://holopin.io/@rishabhlive)
+  [![An image of @pratikpradhan987's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratikpradhan987)](https://holopin.io/@pratikpradhan987)
 
 </div>
 
