@@ -2,7 +2,7 @@
 
 
 <h2 align="center">Welcome to my corner of the web! Hey there👋, I'm Pratik</h2>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullStack developer from India</h3>
 
 <h3 align="center">Let's collaborate to bring your digital ideas to life!</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codingwithslinky.com/GIFs/codingDino.gif">
