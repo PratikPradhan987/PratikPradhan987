@@ -9,11 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikpradhan987&label=Profile%20views&color=0e75b6&style=flat" alt="pratikpradhan987" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+
 - 🔭 I’m currently working as a **FreeLancer**
 
 - 📫 How to reach me **pratikpradhan8250@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Github Profile Summary
 
 <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikPradhan987&theme=2077" align="center"/></div><br/>
 
