@@ -72,8 +72,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PratikPradhan987&theme=react)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikpradhan987&show_icons=true&locale=en&layout=compact" alt="pratikpradhan987" /></p>
+# <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikpradhan987&show_icons=true&locale=en&layout=compact" alt="pratikpradhan987" /></p> #
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikpradhan987&show_icons=true&locale=en" alt="pratikpradhan987" /></p>
+# <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikpradhan987&show_icons=true&locale=en" alt="pratikpradhan987" /></p> #
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpradhan987&" alt="pratikpradhan987" /></p>
+# <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpradhan987&" alt="pratikpradhan987" /></p> #
